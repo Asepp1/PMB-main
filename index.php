@@ -17,6 +17,7 @@ require_once 'progres/menuProgres.php';
     <link
         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
         rel="stylesheet">
+        <script src="script.js"></script>
     <link href="<?php echo base_url('assets/vendor/bootstrap/css/bootstrap.min.css') ?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/vendor/icofont/icofont.min.css') ?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/vendor/boxicons/css/boxicons.min.css') ?>" rel="stylesheet">
@@ -72,6 +73,7 @@ require_once 'progres/menuProgres.php';
         </div>
     </header>
     <!-- ======= Gambabar Sliding Fakultas ======= -->
+    <!-- ======= halaman pilihan jurusan ======= -->
     <section id="hero">
         <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
             <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
