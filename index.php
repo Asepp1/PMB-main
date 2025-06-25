@@ -37,7 +37,7 @@ require_once 'progres/menuProgres.php';
                 <i class="icofont-clock-time"></i> Senin - sabtu, 08.00 - 15.00 WIB
             </div>
             <div class="d-flex align-items-center">
-                <i class="icofont-phone"></i> Hubungi Kami +62 812-2260-7505
+                <i class="icofont-phone"></i> Hubungi Kami +62 812-2260-8888
             </div>
         </div>
     </div>
